@@ -1,7 +1,13 @@
 # E-commerce Sales Performance Analysis 📊
 
 ## 📋 Project Overview
-This project involves a comprehensive analysis of e-commerce sales data to identify key business drivers, customer behavior patterns, and regional performance. The goal was to transform raw sales data into actionable insights using Microsoft Excel.
+This project analyzes an E-commerce sales dataset using Microsoft Excel.
+The goal of the analysis is to clean the dataset, explore customer behavior, and generate meaningful business insights using Excel tools such as Pivot Tables, formulas, and data visualization.
+
+The project demonstrates fundamental data analyst skills including data cleaning, data exploration, and business insight generation.
+
+## 📈 Dashboard Highlights 
+<img width="551" height="287" alt="Image" src="https://github.com/user-attachments/assets/ad854f21-c2cb-4f4a-8a6b-94d7a06b9cdb" />
 
 ## 🛠️ Tools Used
 * **Microsoft Excel:**
@@ -35,12 +41,13 @@ The analysis is based on a multi-sheet dataset containing:
 * **Peak Month:** **September** is the highest revenue month ($57,511).
 * **Payment Preference:** PayPal and Credit Cards are neck-and-neck as the most preferred payment methods, while Cash on Delivery (COD) saw a unique surge in late summer (August/September).
 
-## 📈 Dashboard Highlights 
-
 ## 🚀 Outcome & Recommendations
 * **Inventory Management:** Increase stock for the Sports and Electronics categories before the July-September peak season.
 * **Marketing Focus:** Develop targeted campaigns for the North region to maintain dominance and create "High-Value" loyalty programs for female customers in the South.
 * **Payment Optimization:** Since PayPal and Credit Cards are preferred, ensure seamless integration and perhaps offer incentives for COD users to switch to digital for faster reconciliation.
+  
+## 🏁 Conclusion & Final Thoughts
+This project demonstrates how Microsoft Excel can be used for effective data analysis and visualization. It highlights important data analyst skills such as data cleaning, data exploration, and insight generation.
 
 ---
 **Author:** V.Venkatesh        

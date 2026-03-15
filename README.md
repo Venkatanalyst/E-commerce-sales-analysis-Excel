@@ -1,5 +1,3 @@
-# E-commerce-sales-analysis-Excel
-E-commerce sales data analysis using Microsoft Excel
 # E-commerce Sales Performance Analysis 📊
 
 ## 📋 Project Overview
@@ -43,6 +41,7 @@ The analysis is based on a multi-sheet dataset containing:
 * **Inventory Management:** Increase stock for the Sports and Electronics categories before the July-September peak season.
 * **Marketing Focus:** Develop targeted campaigns for the North region to maintain dominance and create "High-Value" loyalty programs for female customers in the South.
 * **Payment Optimization:** Since PayPal and Credit Cards are preferred, ensure seamless integration and perhaps offer incentives for COD users to switch to digital for faster reconciliation.
+
 ---
 **Author:** V.Venkatesh        
 **Date:** March 2024
